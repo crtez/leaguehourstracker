@@ -1,0 +1,2 @@
+rootProject.name='League Hours Tracker'
+include ':app', ':riot-api-java'

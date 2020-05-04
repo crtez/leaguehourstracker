@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">League of Legends Hours Tracker</string>
+    <string name="summonerID">Summoner Name...</string>
+    <string name="resultMessage">loading...</string>
+    <string name="goButton">Go!</string>
+    <string name="ErrorMessage">loading...</string>
+    <string name="tryAgainButton">Try Again</string>
+    <string name="hoursRetryButton"></string>
+</resources>
